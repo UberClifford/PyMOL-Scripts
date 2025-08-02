@@ -1,2 +1,2 @@
 # pymol_scripts
-Some PyMOL scripts
+Some PyMOL scripts.
